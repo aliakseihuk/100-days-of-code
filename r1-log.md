@@ -23,3 +23,8 @@ Great ideas of the day:
  2. Fill description of the project.
 
 ### R1D2
+#### I've already lost my sleep
+
+MVP is almost done. Basic functionality is implemented, so I can start to style [word-game](https://github.com/aliakseihuk/word-game/).
+Also I chose [color palette](https://coolors.co/50514f-f25f5c-ffe066-247ba0-70c1b3) for the application. I studied color theory a year ago, but I still don't understand can I make it brighter in some cases or not.
+Great ideas of the previous days are seemed not so great today...
