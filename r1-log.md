@@ -28,3 +28,10 @@ Great ideas of the day:
 MVP is almost done. Basic functionality is implemented, so I can start to style [word-game](https://github.com/aliakseihuk/word-game/).
 Also I chose [color palette](https://coolors.co/50514f-f25f5c-ffe066-247ba0-70c1b3) for the application. I studied color theory a year ago, but I still don't understand can I make it brighter in some cases or not.
 Great ideas of the previous days are seemed not so great today...
+
+### R1D3
+#### Custom input broke my heart
+
+I think, CSS is tricky. And I couldn't imagine that a custom input is so hard to make. But I'am working on it... And I don't have another options.
+
+Some great idea connected with bitcoin is come up to my mind yesterday. But firstly, I want to finish this project. And this is the most difficult part for me.
