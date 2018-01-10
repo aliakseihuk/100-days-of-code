@@ -35,3 +35,8 @@ Great ideas of the previous days are seemed not so great today...
 I think, CSS is tricky. And I couldn't imagine that a custom input is so hard to make. But I'am working on it... And I don't have another options.
 
 Some great idea connected with bitcoin is come up to my mind yesterday. But firstly, I want to finish this project. And this is the most difficult part for me.
+
+### R1D4-R1D8
+#### Great battle against css
+
+I was strong. I've done it. I implemented basic cool styles and finished all logic. Tomorrow is going to be very interesting cause I am going to deploy my app
