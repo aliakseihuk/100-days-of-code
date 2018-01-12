@@ -40,3 +40,8 @@ Some great idea connected with bitcoin is come up to my mind yesterday. But firs
 #### Great battle against css
 
 I was strong. I've done it. I implemented basic cool styles and finished all logic. Tomorrow is going to be very interesting cause I am going to deploy my app
+
+### R1D9
+#### the first 0.1 release day
+
+OMG!!! I am so excited! GH pages, I like you. It's so easy to deploy react apps. And [link](https://basecoplan.github.io/word-game/) to the app, ofcourse. 
